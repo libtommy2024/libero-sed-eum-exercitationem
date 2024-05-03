@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/libero-sed-eum-exercitationem",
-  "version": "2.5.4",
+  "version": "2.5.5",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -780,5 +780,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/libero-sed-eum-exercitationem/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
